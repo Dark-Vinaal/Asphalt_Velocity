@@ -1,0 +1,252 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "Aston Martin",
+      "logo": "Logos/aston-martin.png",
+      "link": "/Brands/aston-martin.html",
+      "description": "British luxury sports car manufacturer",
+      "color": "#00594F"
+    },
+    {
+      "id": 2,
+      "name": "Audi",
+      "logo": "Logos/audi.png",
+      "link": "/Brands/audi.html",
+      "description": "German luxury automotive brand",
+      "color": "#BB0A30"
+    },
+    {
+      "id": 3,
+      "name": "Bentley",
+      "logo": "Logos/bentley.png",
+      "link": "/Brands/bentely.html",
+      "description": "British luxury car manufacturer",
+      "color": "#FFD700"
+    },
+    {
+      "id": 4,
+      "name": "Mercedes-Benz",
+      "logo": "Logos/mercedes-benz.png",
+      "link": "/Brands/benz.html",
+      "description": "German luxury automotive brand",
+      "color": "#00ADEF"
+    },
+    {
+      "id": 5,
+      "name": "BMW",
+      "logo": "Logos/bmw.png",
+      "link": "/Brands/bmw.html",
+      "description": "German luxury automotive manufacturer",
+      "color": "#1C69D4"
+    },
+    {
+      "id": 6,
+      "name": "Bugatti",
+      "logo": "Logos/bugatti.png",
+      "link": "/Brands/bugatti.html",
+      "description": "French luxury hypercar manufacturer",
+      "color": "#000000"
+    },
+    {
+      "id": 7,
+      "name": "Chevrolet",
+      "logo": "Logos/corvette.png",
+      "link": "/Brands/chevrolet.html",
+      "description": "American automotive brand",
+      "color": "#FFC72C"
+    },
+    {
+      "id": 8,
+      "name": "Dodge",
+      "logo": "Logos/dodge.png",
+      "link": "/Brands/dodge.html",
+      "description": "American muscle car manufacturer",
+      "color": "#C41E3A"
+    },
+    {
+      "id": 9,
+      "name": "Ferrari",
+      "logo": "Logos/ferrari.png",
+      "link": "/Brands/ferrari.html",
+      "description": "Italian luxury sports car manufacturer",
+      "color": "#DC143C"
+    },
+    {
+      "id": 10,
+      "name": "Ford",
+      "logo": "Logos/ford-mustang.png",
+      "link": "/Brands/ford.html",
+      "description": "American automotive manufacturer",
+      "color": "#003478"
+    },
+    {
+      "id": 11,
+      "name": "Formula 1",
+      "logo": "Logos/F1.png",
+      "link": "/Brands/formula-1.html",
+      "description": "Premier international racing series",
+      "color": "#E10600"
+    },
+    {
+      "id": 12,
+      "name": "Hennessey",
+      "logo": "Logos/hennessey.png",
+      "link": "/Brands/hennessey.html",
+      "description": "American high-performance vehicle manufacturer",
+      "color": "#FF0000"
+    },
+    {
+      "id": 13,
+      "name": "Jaguar",
+      "logo": "Logos/jaguar.png",
+      "link": "/Brands/jaguar.html",
+      "description": "British luxury car manufacturer",
+      "color": "#000000"
+    },
+    {
+      "id": 14,
+      "name": "Koenigsegg",
+      "logo": "Logos/koenigsegg.png",
+      "link": "/Brands/koenigsegg.html",
+      "description": "Swedish hypercar manufacturer",
+      "color": "#000000"
+    },
+    {
+      "id": 15,
+      "name": "Lamborghini",
+      "logo": "Logos/lamborghini.png",
+      "link": "/Brands/lamborghini.html",
+      "description": "Italian luxury sports car manufacturer",
+      "color": "#FFB300"
+    },
+    {
+      "id": 16,
+      "name": "Maserati",
+      "logo": "Logos/maserati.png",
+      "link": "/Brands/maserati.html",
+      "description": "Italian luxury car manufacturer",
+      "color": "#0C2340"
+    },
+    {
+      "id": 17,
+      "name": "McLaren",
+      "logo": "Logos/mclaren.png",
+      "link": "/Brands/mclaren.html",
+      "description": "British supercar manufacturer",
+      "color": "#FF8700"
+    },
+    {
+      "id": 18,
+      "name": "Pagani",
+      "logo": "Logos/pagani.png",
+      "link": "/Brands/pagani.html",
+      "description": "Italian hypercar manufacturer",
+      "color": "#000000"
+    },
+    {
+      "id": 19,
+      "name": "Porsche",
+      "logo": "Logos/porsche.png",
+      "link": "/Brands/porsche.html",
+      "description": "German luxury sports car manufacturer",
+      "color": "#000000"
+    },
+    {
+      "id": 20,
+      "name": "Rolls-Royce",
+      "logo": "Logos/rolls-royce.png",
+      "link": "/Brands/rolls-royce.html",
+      "description": "British luxury car manufacturer",
+      "color": "#0F0F23"
+    },
+    {
+      "id": 21,
+      "name": "W Motors",
+      "logo": "Logos/W-Motors.jpg",
+      "link": "/Brands/w-motors.html",
+      "description": "UAE luxury hypercar manufacturer",
+      "color": "#000000"
+    },
+    {
+      "id": 22,
+      "name": "Zenvo",
+      "logo": "Logos/zenvo.png",
+      "link": "/Brands/zenvo.html",
+      "description": "Danish hypercar manufacturer",
+      "color": "#000000"
+    },
+    {
+      "id": 23,
+      "name": "Unique Cars",
+      "logo": "Logos/unique.png",
+      "link": "/Brands/other-cars.html",
+      "description": "Rare and unique automotive masterpieces",
+      "color": "#FF6B6B"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "src": "Assets/Lambo.mp4",
+      "brand": "Lamborghini"
+    },
+    {
+      "id": 2,
+      "src": "Assets/Pagani.mp4",
+      "brand": "Pagani"
+    },
+    {
+      "id": 3,
+      "src": "Assets/Koenigsegg.mp4",
+      "brand": "Koenigsegg"
+    },
+    {
+      "id": 4,
+      "src": "Assets/Mclaren.mp4",
+      "brand": "McLaren"
+    },
+    {
+      "id": 5,
+      "src": "Assets/Bugatti.mp4",
+      "brand": "Bugatti"
+    },
+    {
+      "id": 6,
+      "src": "Assets/Porsche.mp4",
+      "brand": "Porsche"
+    },
+    {
+      "id": 7,
+      "src": "Assets/Ferrari.mp4",
+      "brand": "Ferrari"
+    }
+  ],
+  "socialLinks": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Dark-Vinaal",
+      "icon": "fab fa-github",
+      "color": "text-gray-300 hover:text-white"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/vinaal",
+      "icon": "fab fa-linkedin",
+      "color": "text-blue-400 hover:text-blue-300"
+    },
+    {
+      "name": "Linktree",
+      "url": "https://linktr.ee/Darkxzz999",
+      "icon": "fas fa-link",
+      "color": "text-green-400 hover:text-green-300"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:vinaalm898@gmail.com",
+      "icon": "fas fa-envelope",
+      "color": "text-red-400 hover:text-red-300"
+    }
+  ]
+}
+

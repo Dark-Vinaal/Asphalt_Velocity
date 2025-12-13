@@ -4,185 +4,1988 @@
       "id": 1,
       "name": "Aston Martin",
       "logo": "Logos/aston-martin.png",
-      "link": "/Brands/aston-martin.html",
       "description": "British luxury sports car manufacturer",
-      "color": "#00594F"
+      "color": "#00594F",
+      "models": [
+        {
+          "name": "Valkyrie",
+          "year": "2023",
+          "price": "$3.2M",
+          "topSpeed": "250 mph / 402 km/h",
+          "engine": "6.5L V12 Hybrid",
+          "horsepower": "1,160 hp",
+          "displacement": "6500 cc",
+          "production": "150 units"
+        },
+        {
+          "name": "Vulcan",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "360 km/h",
+          "engine": "7.0L V12",
+          "horsepower": "820 hp",
+          "displacement": "7.0L",
+          "production": "24 units"
+        },
+        {
+          "name": "One-77",
+          "year": "2012",
+          "price": "$1.9M",
+          "topSpeed": "220 mph / 354 km/h",
+          "engine": "7.3L V12",
+          "horsepower": "750 hp",
+          "displacement": "7312 cc",
+          "production": "77 units"
+        },
+        {
+          "name": "DB11",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "322 km/h",
+          "engine": "5.2L Twin-Turbo V12",
+          "horsepower": "630 hp",
+          "displacement": "5.2L",
+          "production": "none"
+        },
+        {
+          "name": "Vantage",
+          "year": "2023",
+          "price": "$162,000",
+          "topSpeed": "195 mph / 314 km/h",
+          "engine": "4.0L Twin-Turbo V8",
+          "horsepower": "527 hp",
+          "displacement": "3982 cc",
+          "production": "none"
+        }
+      ]
     },
     {
       "id": 2,
       "name": "Audi",
       "logo": "Logos/audi.png",
-      "link": "/Brands/audi.html",
       "description": "German luxury automotive brand",
-      "color": "#BB0A30"
+      "color": "#BB0A30",
+      "models": [
+        {
+          "name": "R8 V10 Performance",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "330 km/h",
+          "engine": "5.2L V10",
+          "horsepower": "620 hp",
+          "displacement": "5.2L",
+          "production": "none"
+        },
+        {
+          "name": "RS e-tron GT",
+          "year": "2024",
+          "price": "$147,100",
+          "topSpeed": "155 mph / 250 km/h",
+          "engine": "Dual Electric Motors",
+          "horsepower": "637 hp",
+          "displacement": "Dual",
+          "production": "none"
+        },
+        {
+          "name": "Quattro Concept",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "310 km/h",
+          "engine": "2.5L Turbocharged I5",
+          "horsepower": "408 hp",
+          "displacement": "2.5L",
+          "production": "Concept (1 unit)"
+        }
+      ]
     },
     {
       "id": 3,
       "name": "Bentley",
       "logo": "Logos/bentley.png",
-      "link": "/Brands/bentely.html",
       "description": "British luxury car manufacturer",
-      "color": "#FFD700"
+      "color": "#FFD700",
+      "models": [
+        {
+          "name": "Continental GT Speed",
+          "year": "2023",
+          "price": "$300,000+",
+          "topSpeed": "208 mph / 335 km/h",
+          "engine": "6.0L W12",
+          "horsepower": "650 hp",
+          "displacement": "5950 cc",
+          "production": "none"
+        },
+        {
+          "name": "Flying Spur Mulliner",
+          "year": "2024",
+          "price": "$315,000",
+          "topSpeed": "207 mph / 333 km/h",
+          "engine": "6.0L W12",
+          "horsepower": "626 hp",
+          "displacement": "5950 cc",
+          "production": "none"
+        },
+        {
+          "name": "Bacalar",
+          "year": "2021",
+          "price": "$1.9M",
+          "topSpeed": "200+ mph / 322+ km/h",
+          "engine": "6.0L W12",
+          "horsepower": "650 hp",
+          "displacement": "5950 cc",
+          "production": "12 units"
+        }
+      ]
     },
     {
       "id": 4,
       "name": "Mercedes-Benz",
       "logo": "Logos/mercedes-benz.png",
-      "link": "/Brands/benz.html",
       "description": "German luxury automotive brand",
-      "color": "#00ADEF"
+      "color": "#00ADEF",
+      "models": [
+        {
+          "name": "AMG One",
+          "year": "2023",
+          "price": "$2.72M",
+          "topSpeed": "219 mph / 352 km/h",
+          "engine": "1.6L V6 Hybrid (F1)",
+          "horsepower": "1,049 hp",
+          "displacement": "1600 cc",
+          "production": "275 units"
+        },
+        {
+          "name": "AMG GT Black Series",
+          "year": "2021",
+          "price": "$325,000",
+          "topSpeed": "202 mph / 325 km/h",
+          "engine": "4.0L Twin-Turbo V8",
+          "horsepower": "720 hp",
+          "displacement": "3982 cc",
+          "production": "1,700 units"
+        },
+        {
+          "name": "AMG GT R Pro",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "318 km/h",
+          "engine": "4.0L Twin-Turbo V8",
+          "horsepower": "585 hp",
+          "displacement": "4.0L",
+          "production": "none"
+        }
+      ]
     },
     {
       "id": 5,
       "name": "BMW",
       "logo": "Logos/bmw.png",
-      "link": "/Brands/bmw.html",
       "description": "German luxury automotive manufacturer",
-      "color": "#1C69D4"
+      "color": "#1C69D4",
+      "models": [
+        {
+          "name": "M4 CSL",
+          "year": "2023",
+          "price": "$140,895",
+          "topSpeed": "191 mph / 307 km/h",
+          "engine": "3.0L Twin-Turbo I6",
+          "horsepower": "543 hp",
+          "displacement": "2993 cc",
+          "production": "1,000 units"
+        },
+        {
+          "name": "M8 Competition",
+          "year": "2024",
+          "price": "$140,000",
+          "topSpeed": "190 mph / 305 km/h",
+          "engine": "4.4L Twin-Turbo V8",
+          "horsepower": "617 hp",
+          "displacement": "4395 cc",
+          "production": "none"
+        },
+        {
+          "name": "Vision M Next (Concept)",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "300+ km/h (concept)",
+          "engine": "Hybrid electric powertrain",
+          "horsepower": "~600 hp (est)",
+          "displacement": "Hybrid",
+          "production": "Concept (1+ units)"
+        }
+      ]
     },
     {
       "id": 6,
       "name": "Bugatti",
       "logo": "Logos/bugatti.png",
-      "link": "/Brands/bugatti.html",
       "description": "French luxury hypercar manufacturer",
-      "color": "#000000"
+      "color": "#000000",
+      "models": [
+        {
+          "name": "Chiron",
+          "year": "2020",
+          "price": "$3.9M",
+          "topSpeed": "304.77 mph / 490.48 km/h",
+          "engine": "8.0L Quad-Turbo W16",
+          "horsepower": "1,578 hp",
+          "displacement": "7993 cc",
+          "production": "30 units"
+        },
+        {
+          "name": "Chiron Sport",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "420 km/h",
+          "engine": "8.0L Quad-Turbo W16",
+          "horsepower": "1,500 hp",
+          "displacement": "8.0L",
+          "production": "60 units"
+        },
+        {
+          "name": "Chiron Super Sport",
+          "year": "2020",
+          "price": "$3.9M",
+          "topSpeed": "304.77 mph / 490.48 km/h",
+          "engine": "8.0L Quad-Turbo W16",
+          "horsepower": "1,578 hp",
+          "displacement": "7993 cc",
+          "production": "30 units"
+        },
+        {
+          "name": "Chiron Super Sport 300+",
+          "year": "2020",
+          "price": "$3.9M",
+          "topSpeed": "304.77 mph / 490.48 km/h",
+          "engine": "8.0L Quad-Turbo W16",
+          "horsepower": "1,578 hp",
+          "displacement": "7993 cc",
+          "production": "30 units"
+        },
+        {
+          "name": "Chiron 110 Ans",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "420 km/h",
+          "engine": "8.0 L W16",
+          "horsepower": "~1,500 hp",
+          "displacement": "8.0",
+          "production": "20 units"
+        },
+        {
+          "name": "Divo",
+          "year": "2021",
+          "price": "$5.8M",
+          "topSpeed": "236 mph / 380 km/h",
+          "engine": "8.0L Quad-Turbo W16",
+          "horsepower": "1,479 hp",
+          "displacement": "7993 cc",
+          "production": "40 units"
+        },
+        {
+          "name": "La Voiture Noire",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "380 km/h",
+          "engine": "8.0L Quad-Turbo W16",
+          "horsepower": "1,500 hp",
+          "displacement": "8.0L",
+          "production": "1 unit"
+        },
+        {
+          "name": "Bolide",
+          "year": "2024",
+          "price": "$4.7M",
+          "topSpeed": "311+ mph / 500+ km/h",
+          "engine": "8.0L Quad-Turbo W16",
+          "horsepower": "1,825 hp",
+          "displacement": "7993 cc",
+          "production": "40 units"
+        },
+        {
+          "name": "2009 Bugatti Veyron",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "407 km/h",
+          "engine": "8.0 L W16 quad-turbo",
+          "horsepower": "1,001 hp",
+          "displacement": "8.0",
+          "production": "none"
+        },
+        {
+          "name": "Bugatti Veyron",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "407 km/h",
+          "engine": "8.0 L W16 quad-turbo",
+          "horsepower": "1,001 hp",
+          "displacement": "8.0",
+          "production": "none"
+        },
+        {
+          "name": "Veyron 16.4",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "407 km/h",
+          "engine": "8.0 L W16 (16 cylinders - 4 turbos)",
+          "horsepower": "~1,001–1,200 hp",
+          "displacement": "8.0",
+          "production": "none"
+        },
+        {
+          "name": "Bugatti EB110",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "342 km/h",
+          "engine": "3.5 L V12 (quad-turbo in some versions)",
+          "horsepower": "~560 hp",
+          "displacement": "3.5",
+          "production": "limited (historic)"
+        },
+        {
+          "name": "EB110 Supersport 'Le Mans'",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "350+ km/h",
+          "engine": "3.5 L V12 (tuned)",
+          "horsepower": "~610 hp",
+          "displacement": "3.5",
+          "production": "very limited"
+        },
+        {
+          "name": "W16 Mistral",
+          "year": "2024",
+          "price": "$5.0M",
+          "topSpeed": "261 mph / 420 km/h",
+          "engine": "8.0L Quad-Turbo W16",
+          "horsepower": "1,578 hp",
+          "displacement": "7993 cc",
+          "production": "99 units"
+        },
+        {
+          "name": "Mistral",
+          "year": "2024",
+          "price": "$5.0M",
+          "topSpeed": "261 mph / 420 km/h",
+          "engine": "8.0L Quad-Turbo W16",
+          "horsepower": "1,578 hp",
+          "displacement": "7993 cc",
+          "production": "99 units"
+        },
+        {
+          "name": "Bugatti Centodieci",
+          "year": "2022",
+          "price": "$9.0M",
+          "topSpeed": "240 mph / 386 km/h",
+          "engine": "8.0L Quad-Turbo W16",
+          "horsepower": "1,578 hp",
+          "displacement": "7993 cc",
+          "production": "10 units"
+        },
+        {
+          "name": "Bugatti Type 35",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "~190 km/h",
+          "engine": "Straight-8 (various)",
+          "horsepower": "~90–120 hp",
+          "displacement": "Straight-8",
+          "production": "many historic units"
+        },
+        {
+          "name": "Bugatti Tourbillon",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "Concept",
+          "engine": "Concept / design study",
+          "horsepower": "Concept",
+          "displacement": "Concept",
+          "production": "concept / one-off"
+        },
+        {
+          "name": "Bugatti Type 57",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "~190–200 km/h",
+          "engine": "3.3–3.8 L Inline-8",
+          "horsepower": "~135–200 hp",
+          "displacement": "3.3–3.8",
+          "production": "historic coachbuilt variants"
+        },
+        {
+          "name": "Type 57SC Atlantic",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "~200 km/h",
+          "engine": "3.3 L Straight-8",
+          "horsepower": "~210 hp",
+          "displacement": "3.3",
+          "production": "4 units"
+        }
+      ]
     },
     {
       "id": 7,
       "name": "Chevrolet",
       "logo": "Logos/corvette.png",
-      "link": "/Brands/chevrolet.html",
       "description": "American automotive brand",
-      "color": "#FFC72C"
+      "color": "#FFC72C",
+      "models": [
+        {
+          "name": "Corvette ZR1",
+          "year": "2019",
+          "price": "$125,000",
+          "topSpeed": "212 mph / 341 km/h",
+          "engine": "6.2L Supercharged V8",
+          "horsepower": "755 hp",
+          "displacement": "6162 cc",
+          "production": "2,953 units"
+        },
+        {
+          "name": "Corvette Z06",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "312 km/h",
+          "engine": "5.5 L Flat-Plane V8",
+          "horsepower": "670 hp",
+          "displacement": "5.5",
+          "production": "none"
+        }
+      ]
     },
     {
       "id": 8,
       "name": "Dodge",
       "logo": "Logos/dodge.png",
-      "link": "/Brands/dodge.html",
       "description": "American muscle car manufacturer",
-      "color": "#C41E3A"
+      "color": "#C41E3A",
+      "models": [
+        {
+          "name": "2025 Charger Daytona",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "320 km/h",
+          "engine": "3.0L Twin-Turbo I6",
+          "horsepower": "550 hp",
+          "displacement": "3.0L",
+          "production": "none"
+        },
+        {
+          "name": "Challenger SRT Hellcat",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "327 km/h",
+          "engine": "6.2L Supercharged V8",
+          "horsepower": "717 hp",
+          "displacement": "6.2L",
+          "production": "none"
+        },
+        {
+          "name": "1993 Viper GTS Concept",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "290 km/h",
+          "engine": "8.0L V10",
+          "horsepower": "400 hp",
+          "displacement": "8.0L",
+          "production": "1 unit"
+        },
+        {
+          "name": "2013 SRT Viper",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "331 km/h",
+          "engine": "8.4L V10",
+          "horsepower": "640 hp",
+          "displacement": "8.4L",
+          "production": "Limited production"
+        },
+        {
+          "name": "Dodge Firearrow",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "210 km/h",
+          "engine": "4.0L V8",
+          "horsepower": "175 hp",
+          "displacement": "4.0L",
+          "production": "4 units"
+        },
+        {
+          "name": "2023 Challenger",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "315 km/h",
+          "engine": "6.2L Supercharged V8",
+          "horsepower": "807 hp",
+          "displacement": "6.2L",
+          "production": "Final edition"
+        },
+        {
+          "name": "Charger SRT Hellcat",
+          "year": "2023",
+          "price": "$90,000",
+          "topSpeed": "203 mph / 327 km/h",
+          "engine": "6.2L Supercharged V8",
+          "horsepower": "797 hp",
+          "displacement": "6166 cc",
+          "production": "none"
+        },
+        {
+          "name": "Dodge Super Bee",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "240 km/h",
+          "engine": "7.2L V8",
+          "horsepower": "390 hp",
+          "displacement": "7.2L",
+          "production": "Classic muscle"
+        }
+      ]
     },
     {
       "id": 9,
       "name": "Ferrari",
       "logo": "Logos/ferrari.png",
-      "link": "/Brands/ferrari.html",
       "description": "Italian luxury sports car manufacturer",
-      "color": "#DC143C"
+      "color": "#DC143C",
+      "models": [
+        {
+          "name": "LaFerrari",
+          "year": "2013",
+          "price": "$3.0M+",
+          "topSpeed": "217 mph / 350 km/h",
+          "engine": "6.3L V12 Hybrid",
+          "horsepower": "950 hp",
+          "displacement": "6262 cc",
+          "production": "499 units"
+        },
+        {
+          "name": "250 GTO",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "280 km/h",
+          "engine": "3.0L V12",
+          "horsepower": "300 hp",
+          "displacement": "3.0L",
+          "production": "36 units"
+        },
+        {
+          "name": "Ferrari Enzo",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "355 km/h",
+          "engine": "6.0L V12",
+          "horsepower": "650 hp",
+          "displacement": "6.0L",
+          "production": "400 units"
+        },
+        {
+          "name": "Ferrari F50",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "325 km/h",
+          "engine": "4.7L V12",
+          "horsepower": "513 hp",
+          "displacement": "4.7L",
+          "production": "349 units"
+        },
+        {
+          "name": "Ferrari F80",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "500 km/h",
+          "engine": "Twin-Turbo V8 Hybrid",
+          "horsepower": "1,200 hp",
+          "displacement": "Twin-Turbo",
+          "production": "Concept car"
+        },
+        {
+          "name": "SF90 Stradale",
+          "year": "2023",
+          "price": "$524,000",
+          "topSpeed": "211 mph / 340 km/h",
+          "engine": "4.0L V8 Hybrid",
+          "horsepower": "986 hp",
+          "displacement": "3990 cc",
+          "production": "none"
+        },
+        {
+          "name": "296 GTB",
+          "year": "2023",
+          "price": "$322,000",
+          "topSpeed": "205 mph / 330 km/h",
+          "engine": "3.0L V6 Hybrid",
+          "horsepower": "819 hp",
+          "displacement": "2992 cc",
+          "production": "none"
+        },
+        {
+          "name": "F8 Tributo",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "340 km/h",
+          "engine": "3.9L Twin-Turbo V8",
+          "horsepower": "710 hp",
+          "displacement": "3.9L",
+          "production": "none"
+        },
+        {
+          "name": "812 Superfast",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "340 km/h",
+          "engine": "6.5L V12",
+          "horsepower": "789 hp",
+          "displacement": "6.5L",
+          "production": "none"
+        },
+        {
+          "name": "488 Pista",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "340 km/h",
+          "engine": "3.9L Twin-Turbo V8",
+          "horsepower": "710 hp",
+          "displacement": "3.9L",
+          "production": "Limited production"
+        },
+        {
+          "name": "Ferrari F430",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "315 km/h",
+          "engine": "4.3L V8",
+          "horsepower": "483 hp",
+          "displacement": "4.3L",
+          "production": "none"
+        }
+      ]
     },
     {
       "id": 10,
       "name": "Ford",
       "logo": "Logos/ford-mustang.png",
-      "link": "/Brands/ford.html",
       "description": "American automotive manufacturer",
-      "color": "#003478"
+      "color": "#003478",
+      "models": [
+        {
+          "name": "Ford GT (2017)",
+          "year": "2022",
+          "price": "$500,000",
+          "topSpeed": "216 mph / 348 km/h",
+          "engine": "3.5L Twin-Turbo V6",
+          "horsepower": "660 hp",
+          "displacement": "3497 cc",
+          "production": "1,350 units"
+        },
+        {
+          "name": "Ford GT40 (1966)",
+          "year": "2022",
+          "price": "$500,000",
+          "topSpeed": "216 mph / 348 km/h",
+          "engine": "3.5L Twin-Turbo V6",
+          "horsepower": "660 hp",
+          "displacement": "3497 cc",
+          "production": "1,350 units"
+        },
+        {
+          "name": "Mustang Shelby GT500",
+          "year": "2022",
+          "price": "$79,000",
+          "topSpeed": "180 mph / 290 km/h",
+          "engine": "5.2L Supercharged V8",
+          "horsepower": "760 hp",
+          "displacement": "5163 cc",
+          "production": "Limited Production"
+        },
+        {
+          "name": "Mustang Mach 1",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "267 km/h",
+          "engine": "5.0L V8",
+          "horsepower": "480 hp",
+          "displacement": "5.0L",
+          "production": "none"
+        },
+        {
+          "name": "Mustang Mach-E GT",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "200 km/h",
+          "engine": "Dual Electric Motors",
+          "horsepower": "480 hp",
+          "displacement": "Dual",
+          "production": "Electric SUV"
+        },
+        {
+          "name": "Ford GT (2005)",
+          "year": "2022",
+          "price": "$500,000",
+          "topSpeed": "216 mph / 348 km/h",
+          "engine": "3.5L Twin-Turbo V6",
+          "horsepower": "660 hp",
+          "displacement": "3497 cc",
+          "production": "1,350 units"
+        },
+        {
+          "name": "Shelby GT350R",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "280 km/h",
+          "engine": "5.2L V8",
+          "horsepower": "526 hp",
+          "displacement": "5.2L",
+          "production": "Track-focused"
+        },
+        {
+          "name": "Mustang Dark Horse",
+          "year": "2024",
+          "price": "$59,270",
+          "topSpeed": "168 mph / 270 km/h",
+          "engine": "5.0L Coyote V8",
+          "horsepower": "500 hp",
+          "displacement": "5038 cc",
+          "production": "Performance edition"
+        }
+      ]
     },
     {
       "id": 11,
       "name": "Formula 1",
       "logo": "Logos/F1.png",
-      "link": "/Brands/formula-1.html",
       "description": "Premier international racing series",
-      "color": "#E10600"
+      "color": "#E10600",
+      "models": [
+        {
+          "name": "Red Bull RB20",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "370+ km/h",
+          "engine": "Honda RBPTH002 V6",
+          "horsepower": "N/A",
+          "displacement": "Honda",
+          "production": "N/A"
+        },
+        {
+          "name": "Ferrari SF-24",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "365+ km/h",
+          "engine": "Ferrari 066/12 V6",
+          "horsepower": "N/A",
+          "displacement": "Ferrari",
+          "production": "N/A"
+        },
+        {
+          "name": "Mercedes W15",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "360+ km/h",
+          "engine": "Mercedes M15 V6",
+          "horsepower": "N/A",
+          "displacement": "Mercedes",
+          "production": "N/A"
+        },
+        {
+          "name": "McLaren MCL38",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "365+ km/h",
+          "engine": "Mercedes M15 V6",
+          "horsepower": "N/A",
+          "displacement": "Mercedes",
+          "production": "N/A"
+        },
+        {
+          "name": "Aston Martin AMR24",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "360+ km/h",
+          "engine": "Mercedes M15 V6",
+          "horsepower": "N/A",
+          "displacement": "Mercedes",
+          "production": "N/A"
+        },
+        {
+          "name": "Alpine A524",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "355+ km/h",
+          "engine": "Renault E-Tech 24 V6",
+          "horsepower": "N/A",
+          "displacement": "Renault",
+          "production": "N/A"
+        },
+        {
+          "name": "Williams FW46",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "370+ km/h",
+          "engine": "Mercedes M15 V6",
+          "horsepower": "N/A",
+          "displacement": "Mercedes",
+          "production": "N/A"
+        },
+        {
+          "name": "VCARB 01",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "360+ km/h",
+          "engine": "Honda RBPTH002 V6",
+          "horsepower": "N/A",
+          "displacement": "Honda",
+          "production": "N/A"
+        },
+        {
+          "name": "Sauber C44",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "355+ km/h",
+          "engine": "Ferrari 066/12 V6",
+          "horsepower": "N/A",
+          "displacement": "Ferrari",
+          "production": "N/A"
+        },
+        {
+          "name": "Haas VF-24",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "355+ km/h",
+          "engine": "Ferrari 066/12 V6",
+          "horsepower": "N/A",
+          "displacement": "Ferrari",
+          "production": "N/A"
+        }
+      ]
     },
     {
       "id": 12,
       "name": "Hennessey",
       "logo": "Logos/hennessey.png",
-      "link": "/Brands/hennessey.html",
       "description": "American high-performance vehicle manufacturer",
-      "color": "#FF0000"
+      "color": "#FF0000",
+      "models": [
+        {
+          "name": "Venom F5",
+          "year": "2023",
+          "price": "$2.1M",
+          "topSpeed": "300+ mph / 482+ km/h",
+          "engine": "6.6L Twin-Turbo V8",
+          "horsepower": "1,817 hp",
+          "displacement": "6555 cc",
+          "production": "24 units"
+        },
+        {
+          "name": "Venom GT",
+          "year": "2014",
+          "price": "$1.2M",
+          "topSpeed": "270.49 mph / 435.31 km/h",
+          "engine": "7.0L Twin-Turbo V8",
+          "horsepower": "1,244 hp",
+          "displacement": "7000 cc",
+          "production": "13 units"
+        },
+        {
+          "name": "Exorcist Camaro",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "345 km/h",
+          "engine": "6.2L Supercharged V8",
+          "horsepower": "1,000 hp",
+          "displacement": "6.2L",
+          "production": "Limited builds"
+        },
+        {
+          "name": "H1000 Ford GT",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "355 km/h",
+          "engine": "3.5L Twin-Turbo V6",
+          "horsepower": "1,000 hp",
+          "displacement": "3.5L",
+          "production": "100 units planned"
+        },
+        {
+          "name": "Mammoth 6x6",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "190 km/h",
+          "engine": "6.2L Supercharged V8",
+          "horsepower": "710 hp",
+          "displacement": "6.2L",
+          "production": "20 units per year"
+        },
+        {
+          "name": "H850 C8 Corvette",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "335 km/h",
+          "engine": "6.2L Supercharged V8",
+          "horsepower": "850 hp",
+          "displacement": "6.2L",
+          "production": "none"
+        },
+        {
+          "name": "VelociRaptor 600",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "190 km/h",
+          "engine": "3.5L Twin-Turbo V6",
+          "horsepower": "600 hp",
+          "displacement": "3.5L",
+          "production": "none"
+        },
+        {
+          "name": "H700 TRX",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "190 km/h",
+          "engine": "6.2L Supercharged V8",
+          "horsepower": "700 hp",
+          "displacement": "6.2L",
+          "production": "none"
+        }
+      ]
     },
     {
       "id": 13,
       "name": "Jaguar",
       "logo": "Logos/jaguar.png",
-      "link": "/Brands/jaguar.html",
       "description": "British luxury car manufacturer",
-      "color": "#000000"
+      "color": "#000000",
+      "models": [
+        {
+          "name": "Jaguar XJ220",
+          "year": "1992",
+          "price": "$500,000+",
+          "topSpeed": "212.3 mph / 341.7 km/h",
+          "engine": "3.5L Twin-Turbo V6",
+          "horsepower": "542 hp",
+          "displacement": "3498 cc",
+          "production": "281 units"
+        },
+        {
+          "name": "Jaguar C-X75",
+          "year": "2010 (Concept)",
+          "price": "$1.2M (Est)",
+          "topSpeed": "220 mph / 354 km/h",
+          "engine": "Hybrid Turbine",
+          "horsepower": "778 hp",
+          "displacement": "1600 cc + motors",
+          "production": "Prototype"
+        },
+        {
+          "name": "Jaguar XJR-15",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "308 km/h",
+          "engine": "6.0L V12",
+          "horsepower": "450 hp",
+          "displacement": "6.0L",
+          "production": "53 units"
+        },
+        {
+          "name": "F-Type SVR",
+          "year": "2020",
+          "price": "$123,000",
+          "topSpeed": "200 mph / 322 km/h",
+          "engine": "5.0L Supercharged V8",
+          "horsepower": "575 hp",
+          "displacement": "5000 cc",
+          "production": "none"
+        },
+        {
+          "name": "Jaguar XKSS",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "240 km/h",
+          "engine": "3.4L Straight-6",
+          "horsepower": "250 hp",
+          "displacement": "3.4L",
+          "production": "16 units"
+        },
+        {
+          "name": "Jaguar D-Type",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "280 km/h",
+          "engine": "3.4L Straight-6",
+          "horsepower": "250 hp",
+          "displacement": "3.4L",
+          "production": "71 units"
+        },
+        {
+          "name": "XE Project 8",
+          "year": "2019",
+          "price": "$188,000",
+          "topSpeed": "200 mph / 322 km/h",
+          "engine": "5.0L Supercharged V8",
+          "horsepower": "592 hp",
+          "displacement": "5000 cc",
+          "production": "300 units"
+        },
+        {
+          "name": "F-Type Project 7",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "300 km/h",
+          "engine": "5.0L Supercharged V8",
+          "horsepower": "567 hp",
+          "displacement": "5.0L",
+          "production": "250 units"
+        }
+      ]
     },
     {
       "id": 14,
       "name": "Koenigsegg",
       "logo": "Logos/koenigsegg.png",
-      "link": "/Brands/koenigsegg.html",
       "description": "Swedish hypercar manufacturer",
-      "color": "#000000"
+      "color": "#000000",
+      "models": [
+        {
+          "name": "Jesko Absolut",
+          "year": "2023",
+          "price": "$3.4M",
+          "topSpeed": "330+ mph / 531+ km/h",
+          "engine": "5.0L Twin-Turbo V8",
+          "horsepower": "1,600 hp",
+          "displacement": "5065 cc",
+          "production": "125 units (Total)"
+        },
+        {
+          "name": "Jesko Attack",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "480 km/h",
+          "engine": "5.0L Twin-Turbo V8",
+          "horsepower": "1,600 hp",
+          "displacement": "5.0L",
+          "production": "Track-focused"
+        },
+        {
+          "name": "Regera",
+          "year": "2016",
+          "price": "$1.9M",
+          "topSpeed": "251 mph / 404 km/h",
+          "engine": "5.0L V8 Hybrid",
+          "horsepower": "1,500 hp",
+          "displacement": "5065 cc",
+          "production": "80 units"
+        },
+        {
+          "name": "Agera RS",
+          "year": "2017",
+          "price": "$2.5M+",
+          "topSpeed": "277.87 mph / 447.19 km/h",
+          "engine": "5.0L Twin-Turbo V8",
+          "horsepower": "1,341 hp",
+          "displacement": "5065 cc",
+          "production": "25 units"
+        },
+        {
+          "name": "Gemera",
+          "year": "2024",
+          "price": "$1.7M",
+          "topSpeed": "248 mph / 400 km/h",
+          "engine": "2.0L I3 + 3 E-Motors",
+          "horsepower": "1,700 hp",
+          "displacement": "1988 cc",
+          "production": "300 units"
+        },
+        {
+          "name": "One:1",
+          "year": "2014",
+          "price": "$2.8M",
+          "topSpeed": "273 mph / 440 km/h",
+          "engine": "5.0L Twin-Turbo V8",
+          "horsepower": "1,341 hp",
+          "displacement": "5065 cc",
+          "production": "7 units"
+        },
+        {
+          "name": "CCXR Trevita",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "410 km/h",
+          "engine": "4.8L Twin-Turbo V8",
+          "horsepower": "1,018 hp",
+          "displacement": "4.8L",
+          "production": "2 units"
+        },
+        {
+          "name": "Agera Final",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "457 km/h",
+          "engine": "5.0L Twin-Turbo V8",
+          "horsepower": "1,160 hp",
+          "displacement": "5.0L",
+          "production": "3 units"
+        }
+      ]
     },
     {
       "id": 15,
       "name": "Lamborghini",
       "logo": "Logos/lamborghini.png",
-      "link": "/Brands/lamborghini.html",
       "description": "Italian luxury sports car manufacturer",
-      "color": "#FFB300"
+      "color": "#FFB300",
+      "models": [
+        {
+          "name": "Huracán EVO",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "325 km/h",
+          "engine": "5.2 L V10 NA",
+          "horsepower": "631 hp",
+          "displacement": "5.2",
+          "production": "none"
+        },
+        {
+          "name": "Huracán Spyder",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "324 km/h",
+          "engine": "5.2 L V10 NA",
+          "horsepower": "602 hp",
+          "displacement": "5.2",
+          "production": "none"
+        },
+        {
+          "name": "Aventador",
+          "year": "2019",
+          "price": "$600,000+",
+          "topSpeed": "217+ mph / 350+ km/h",
+          "engine": "6.5L V12",
+          "horsepower": "759 hp",
+          "displacement": "6498 cc",
+          "production": "900 units"
+        },
+        {
+          "name": "Aventador SVJ",
+          "year": "2019",
+          "price": "$600,000+",
+          "topSpeed": "217+ mph / 350+ km/h",
+          "engine": "6.5L V12",
+          "horsepower": "759 hp",
+          "displacement": "6498 cc",
+          "production": "900 units"
+        },
+        {
+          "name": "Centenario",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "350 km/h",
+          "engine": "6.5 L V12",
+          "horsepower": "770 hp",
+          "displacement": "6.5",
+          "production": "40 units"
+        },
+        {
+          "name": "Revuelto",
+          "year": "2024",
+          "price": "$608,358",
+          "topSpeed": "217+ mph / 350+ km/h",
+          "engine": "6.5L V12 Hybrid",
+          "horsepower": "1,001 hp",
+          "displacement": "6498 cc",
+          "production": "none"
+        },
+        {
+          "name": "Veneno",
+          "year": "2013",
+          "price": "$4.5M",
+          "topSpeed": "221 mph / 355 km/h",
+          "engine": "6.5L V12",
+          "horsepower": "740 hp",
+          "displacement": "6498 cc",
+          "production": "5 Coupes"
+        },
+        {
+          "name": "Gallardo",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "325 km/h",
+          "engine": "5.0 L V10",
+          "horsepower": "560 hp",
+          "displacement": "5.0",
+          "production": "none"
+        },
+        {
+          "name": "Temerario",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "330 km/h",
+          "engine": "5.2 L V10 Hybrid",
+          "horsepower": "800 hp",
+          "displacement": "5.2",
+          "production": "none"
+        },
+        {
+          "name": "Diablo",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "325 km/h",
+          "engine": "6.0 L V12",
+          "horsepower": "575 hp",
+          "displacement": "6.0",
+          "production": "none"
+        },
+        {
+          "name": "Miura",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "280 km/h",
+          "engine": "3.9 L V12",
+          "horsepower": "385 hp",
+          "displacement": "3.9",
+          "production": "764 units"
+        },
+        {
+          "name": "Huracán Sterrato",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "260 km/h",
+          "engine": "5.2 L V10",
+          "horsepower": "610 hp",
+          "displacement": "5.2",
+          "production": "1,499 units"
+        },
+        {
+          "name": "Murciélago",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "342 km/h",
+          "engine": "6.5 L V12",
+          "horsepower": "661 hp",
+          "displacement": "6.5",
+          "production": "none"
+        },
+        {
+          "name": "400 GT",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "250 km/h",
+          "engine": "4.0 L V12",
+          "horsepower": "320 hp",
+          "displacement": "4.0",
+          "production": "247 units"
+        },
+        {
+          "name": "Urus",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "305 km/h",
+          "engine": "4.0 L Twin-Turbo V8",
+          "horsepower": "657 hp",
+          "displacement": "4.0",
+          "production": "none"
+        }
+      ]
     },
     {
       "id": 16,
       "name": "Maserati",
       "logo": "Logos/maserati.png",
-      "link": "/Brands/maserati.html",
       "description": "Italian luxury car manufacturer",
-      "color": "#0C2340"
+      "color": "#0C2340",
+      "models": [
+        {
+          "name": "MC20",
+          "year": "2023",
+          "price": "$212,000",
+          "topSpeed": "202 mph / 325 km/h",
+          "engine": "3.0L Twin-Turbo V6",
+          "horsepower": "621 hp",
+          "displacement": "3000 cc",
+          "production": "Return to supercars"
+        },
+        {
+          "name": "MC12",
+          "year": "2004",
+          "price": "$1.5M+",
+          "topSpeed": "205 mph / 330 km/h",
+          "engine": "6.0L V12",
+          "horsepower": "621 hp",
+          "displacement": "5998 cc",
+          "production": "50 units"
+        },
+        {
+          "name": "GranTurismo Trofeo",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "320 km/h",
+          "engine": "3.0L Twin-Turbo V6",
+          "horsepower": "542 hp",
+          "displacement": "3.0L",
+          "production": "none"
+        },
+        {
+          "name": "MC12 Corse",
+          "year": "2004",
+          "price": "$1.5M+",
+          "topSpeed": "205 mph / 330 km/h",
+          "engine": "6.0L V12",
+          "horsepower": "621 hp",
+          "displacement": "5998 cc",
+          "production": "50 units"
+        },
+        {
+          "name": "MC Stradale",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "303 km/h",
+          "engine": "4.7L V8",
+          "horsepower": "454 hp",
+          "displacement": "4.7L",
+          "production": "Track-focused"
+        },
+        {
+          "name": "Birdcage 75th",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "N/A",
+          "engine": "V12 Concept",
+          "horsepower": "700+ hp",
+          "displacement": "V12",
+          "production": "1 unit"
+        },
+        {
+          "name": "Alfieri Concept",
+          "year": "Concept",
+          "price": "N/A",
+          "topSpeed": "186+ mph / 300+ km/h",
+          "engine": "V8 / Electric",
+          "horsepower": "460 hp",
+          "displacement": "4.7L",
+          "production": "Concept"
+        },
+        {
+          "name": "Ghibli Trofeo",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "326 km/h",
+          "engine": "3.8L Twin-Turbo V8",
+          "horsepower": "572 hp",
+          "displacement": "3.8L",
+          "production": "Super sedan"
+        }
+      ]
     },
     {
       "id": 17,
       "name": "McLaren",
       "logo": "Logos/mclaren.png",
-      "link": "/Brands/mclaren.html",
       "description": "British supercar manufacturer",
-      "color": "#FF8700"
+      "color": "#FF8700",
+      "models": [
+        {
+          "name": "McLaren F1",
+          "year": "1993",
+          "price": "$20M+",
+          "topSpeed": "240.1 mph / 386.4 km/h",
+          "engine": "6.1L V12",
+          "horsepower": "618 hp",
+          "displacement": "6064 cc",
+          "production": "106 units"
+        },
+        {
+          "name": "McLaren P1",
+          "year": "2014",
+          "price": "$1.15M",
+          "topSpeed": "217 mph / 350 km/h",
+          "engine": "3.8L V8 Hybrid",
+          "horsepower": "903 hp",
+          "displacement": "3799 cc",
+          "production": "375 units"
+        },
+        {
+          "name": "Speedtail",
+          "year": "2020",
+          "price": "$2.25M",
+          "topSpeed": "250 mph / 403 km/h",
+          "engine": "4.0L V8 Hybrid",
+          "horsepower": "1,035 hp",
+          "displacement": "3994 cc",
+          "production": "106 units"
+        },
+        {
+          "name": "Senna",
+          "year": "2019",
+          "price": "$1.0M",
+          "topSpeed": "208 mph / 335 km/h",
+          "engine": "4.0L Twin-Turbo V8",
+          "horsepower": "789 hp",
+          "displacement": "3994 cc",
+          "production": "500 units"
+        },
+        {
+          "name": "765LT",
+          "year": "2021",
+          "price": "$358,000",
+          "topSpeed": "205 mph / 330 km/h",
+          "engine": "4.0L Twin-Turbo V8",
+          "horsepower": "755 hp",
+          "displacement": "3994 cc",
+          "production": "765 units"
+        },
+        {
+          "name": "Elva",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "326 km/h",
+          "engine": "4.0L Twin-Turbo V8",
+          "horsepower": "804 hp",
+          "displacement": "4.0L",
+          "production": "149 units"
+        },
+        {
+          "name": "720S",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "341 km/h",
+          "engine": "4.0L Twin-Turbo V8",
+          "horsepower": "710 hp",
+          "displacement": "4.0L",
+          "production": "none"
+        },
+        {
+          "name": "Artura",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "330 km/h",
+          "engine": "3.0L V6 Hybrid",
+          "horsepower": "671 hp",
+          "displacement": "3.0L",
+          "production": "New hybrid era"
+        }
+      ]
     },
     {
       "id": 18,
       "name": "Pagani",
       "logo": "Logos/pagani.png",
-      "link": "/Brands/pagani.html",
       "description": "Italian hypercar manufacturer",
-      "color": "#000000"
+      "color": "#000000",
+      "models": [
+        {
+          "name": "Huayra Roadster BC",
+          "year": "2020",
+          "price": "$3.5M",
+          "topSpeed": "238 mph / 383 km/h",
+          "engine": "6.0L Twin-Turbo V12",
+          "horsepower": "791 hp",
+          "displacement": "5980 cc",
+          "production": "40 units"
+        },
+        {
+          "name": "Huayra Tricolore",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "370 km/h",
+          "engine": "6.0L Twin-Turbo V12",
+          "horsepower": "840 hp",
+          "displacement": "6.0L",
+          "production": "3 units"
+        },
+        {
+          "name": "Zonda R",
+          "year": "2009",
+          "price": "$2.0M+",
+          "topSpeed": "233 mph / 375 km/h",
+          "engine": "6.0L V12",
+          "horsepower": "740 hp",
+          "displacement": "5987 cc",
+          "production": "15 units"
+        },
+        {
+          "name": "Huayra BC",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "370 km/h",
+          "engine": "6.0L Twin-Turbo V12",
+          "horsepower": "800 hp",
+          "displacement": "6.0L",
+          "production": "20 units"
+        },
+        {
+          "name": "Zonda HP Barchetta",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "350 km/h",
+          "engine": "7.3L V12",
+          "horsepower": "789 hp",
+          "displacement": "7.3L",
+          "production": "3 units"
+        },
+        {
+          "name": "Huayra Codalunga",
+          "year": "2022",
+          "price": "$7.4M",
+          "topSpeed": "230 mph / 370 km/h",
+          "engine": "6.0L Twin-Turbo V12",
+          "horsepower": "829 hp",
+          "displacement": "5980 cc",
+          "production": "5 units"
+        },
+        {
+          "name": "Zonda Revolucion",
+          "year": "2009",
+          "price": "$2.0M+",
+          "topSpeed": "233 mph / 375 km/h",
+          "engine": "6.0L V12",
+          "horsepower": "740 hp",
+          "displacement": "5987 cc",
+          "production": "15 units"
+        },
+        {
+          "name": "Utopia",
+          "year": "2023",
+          "price": "$2.5M",
+          "topSpeed": "220+ mph / 354+ km/h",
+          "engine": "6.0L Twin-Turbo V12",
+          "horsepower": "852 hp",
+          "displacement": "5980 cc",
+          "production": "99 units"
+        }
+      ]
     },
     {
       "id": 19,
       "name": "Porsche",
       "logo": "Logos/porsche.png",
-      "link": "/Brands/porsche.html",
       "description": "German luxury sports car manufacturer",
-      "color": "#000000"
+      "color": "#000000",
+      "models": [
+        {
+          "name": "911 GT3",
+          "year": "2023",
+          "price": "$223,800",
+          "topSpeed": "184 mph / 296 km/h",
+          "engine": "4.0L Flat-6",
+          "horsepower": "518 hp",
+          "displacement": "3996 cc",
+          "production": "none"
+        },
+        {
+          "name": "911 Carrera",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "293 km/h",
+          "engine": "3.0L Twin-Turbo Flat-6",
+          "horsepower": "379 hp",
+          "displacement": "3.0L",
+          "production": "none"
+        },
+        {
+          "name": "Taycan",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "260 km/h",
+          "engine": "Dual Electric Motors",
+          "horsepower": "750 hp (Turbo S)",
+          "displacement": "Dual",
+          "production": "none"
+        },
+        {
+          "name": "718 Cayman",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "275 km/h",
+          "engine": "2.5L Turbo Flat-4",
+          "horsepower": "350 hp",
+          "displacement": "2.5L",
+          "production": "none"
+        },
+        {
+          "name": "Panamera",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "315 km/h",
+          "engine": "4.0L Twin-Turbo V8 Hybrid",
+          "horsepower": "690 hp",
+          "displacement": "4.0L",
+          "production": "none"
+        },
+        {
+          "name": "911 Carrera 4 GTS",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "293 km/h",
+          "engine": "3.0L Twin-Turbo Flat-6",
+          "horsepower": "379 hp",
+          "displacement": "3.0L",
+          "production": "none"
+        },
+        {
+          "name": "911",
+          "year": "2023",
+          "price": "$223,800",
+          "topSpeed": "184 mph / 296 km/h",
+          "engine": "4.0L Flat-6",
+          "horsepower": "518 hp",
+          "displacement": "3996 cc",
+          "production": "none"
+        },
+        {
+          "name": "918 Spyder",
+          "year": "2014",
+          "price": "$1.5M+",
+          "topSpeed": "214 mph / 345 km/h",
+          "engine": "4.6L V8 Hybrid",
+          "horsepower": "875 hp",
+          "displacement": "4593 cc",
+          "production": "918 units"
+        },
+        {
+          "name": "Cayenne Turbo S E-Hybrid",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "295 km/h",
+          "engine": "4.0L Twin-Turbo V8 + Hybrid",
+          "horsepower": "670 hp",
+          "displacement": "4.0L",
+          "production": "none"
+        },
+        {
+          "name": "Macan GTS",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "272 km/h",
+          "engine": "2.9L Twin-Turbo V6",
+          "horsepower": "434 hp",
+          "displacement": "2.9L",
+          "production": "none"
+        }
+      ]
     },
     {
       "id": 20,
       "name": "Rolls-Royce",
       "logo": "Logos/rolls-royce.png",
-      "link": "/Brands/rolls-royce.html",
       "description": "British luxury car manufacturer",
-      "color": "#0F0F23"
+      "color": "#0F0F23",
+      "models": [
+        {
+          "name": "Phantom",
+          "year": "2023",
+          "price": "$460,000",
+          "topSpeed": "155 mph / 250 km/h",
+          "engine": "6.75L Twin-Turbo V12",
+          "horsepower": "563 hp",
+          "displacement": "6749 cc",
+          "production": "The pinnacle of luxury"
+        },
+        {
+          "name": "Cullinan",
+          "year": "2023",
+          "price": "$450,000",
+          "topSpeed": "155 mph / 250 km/h",
+          "engine": "6.75L Twin-Turbo V12",
+          "horsepower": "592 hp",
+          "displacement": "6749 cc",
+          "production": "Ultimate luxury SUV"
+        },
+        {
+          "name": "Ghost",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "250 km/h",
+          "engine": "6.75L Twin-Turbo V12",
+          "horsepower": "563 hp",
+          "displacement": "6.75L",
+          "production": "Silent luxury sedan"
+        },
+        {
+          "name": "Spectre",
+          "year": "2024",
+          "price": "$420,000",
+          "topSpeed": "155 mph / 250 km/h",
+          "engine": "Dual Electric Motors",
+          "horsepower": "577 hp",
+          "displacement": "Dual",
+          "production": "First electric Rolls-Royce"
+        },
+        {
+          "name": "Wraith",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "250 km/h",
+          "engine": "6.6L Twin-Turbo V12",
+          "horsepower": "624 hp",
+          "displacement": "6.6L",
+          "production": "Luxurious coupe"
+        },
+        {
+          "name": "Dawn",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "250 km/h",
+          "engine": "6.6L Twin-Turbo V12",
+          "horsepower": "563 hp",
+          "displacement": "6.6L",
+          "production": "Luxury convertible"
+        },
+        {
+          "name": "Boat Tail",
+          "year": "2021",
+          "price": "$28.0M",
+          "topSpeed": "N/A",
+          "engine": "6.75L Twin-Turbo V12",
+          "horsepower": "~563 hp",
+          "displacement": "6749 cc",
+          "production": "3 units"
+        },
+        {
+          "name": "Sweptail",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "250 km/h",
+          "engine": "6.75L Twin-Turbo V12",
+          "horsepower": "563 hp",
+          "displacement": "6.75L",
+          "production": "1 unit, $13M"
+        },
+        {
+          "name": "Droptail",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "250 km/h",
+          "engine": "6.75L Twin-Turbo V12",
+          "horsepower": "563 hp",
+          "displacement": "6.75L",
+          "production": "Coachbuilt masterpiece"
+        }
+      ]
     },
     {
       "id": 21,
       "name": "W Motors",
       "logo": "Logos/W-Motors.jpg",
-      "link": "/Brands/w-motors.html",
       "description": "UAE luxury hypercar manufacturer",
-      "color": "#000000"
+      "color": "#000000",
+      "models": [
+        {
+          "name": "Lykan HyperSport",
+          "year": "2013",
+          "price": "$3.4M",
+          "topSpeed": "245 mph / 395 km/h",
+          "engine": "3.7L Twin-Turbo Flat-6",
+          "horsepower": "780 hp",
+          "displacement": "3746 cc",
+          "production": "7 units"
+        },
+        {
+          "name": "Fenyr SuperSport",
+          "year": "2016",
+          "price": "$1.9M",
+          "topSpeed": "248 mph / 400 km/h",
+          "engine": "3.8L Twin-Turbo Flat-6",
+          "horsepower": "800 hp",
+          "displacement": "3800 cc",
+          "production": "100 units"
+        },
+        {
+          "name": "Lykan HyperSport R",
+          "year": "2013",
+          "price": "$3.4M",
+          "topSpeed": "245 mph / 395 km/h",
+          "engine": "3.7L Twin-Turbo Flat-6",
+          "horsepower": "780 hp",
+          "displacement": "3746 cc",
+          "production": "7 units"
+        },
+        {
+          "name": "Fenyr SuperSport R",
+          "year": "2016",
+          "price": "$1.9M",
+          "topSpeed": "248 mph / 400 km/h",
+          "engine": "3.8L Twin-Turbo Flat-6",
+          "horsepower": "800 hp",
+          "displacement": "3800 cc",
+          "production": "100 units"
+        },
+        {
+          "name": "Ghiath",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "420 km/h",
+          "engine": "Quad-Turbo V8 Hybrid",
+          "horsepower": "2,200 hp",
+          "displacement": "Quad-Turbo",
+          "production": "5 units"
+        },
+        {
+          "name": "MUSE Concept",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "N/A",
+          "engine": "All-Electric",
+          "horsepower": "1,800 hp",
+          "displacement": "All-Electric",
+          "production": "Concept car"
+        },
+        {
+          "name": "Qood",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "N/A",
+          "engine": "All-Electric SUV",
+          "horsepower": "1,600 hp",
+          "displacement": "All-Electric",
+          "production": "Electric SUV"
+        },
+        {
+          "name": "Furious 7 Lykan",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "385 km/h",
+          "engine": "3.7L Twin-Turbo Flat-6",
+          "horsepower": "780 hp",
+          "displacement": "3.7L",
+          "production": "Movie star car"
+        }
+      ]
     },
     {
       "id": 22,
       "name": "Zenvo",
       "logo": "Logos/zenvo.png",
-      "link": "/Brands/zenvo.html",
       "description": "Danish hypercar manufacturer",
-      "color": "#000000"
+      "color": "#000000",
+      "models": [
+        {
+          "name": "TSR-S",
+          "year": "2018",
+          "price": "$1.6M",
+          "topSpeed": "202 mph / 325 km/h",
+          "engine": "5.8L Twin-Supercharged V8",
+          "horsepower": "1,177 hp",
+          "displacement": "5800 cc",
+          "production": "5 units/year"
+        },
+        {
+          "name": "ST1",
+          "year": "2009",
+          "price": "$1.2M",
+          "topSpeed": "233 mph / 375 km/h",
+          "engine": "6.8L Twin-Charged V8",
+          "horsepower": "1,104 hp",
+          "displacement": "6800 cc",
+          "production": "15 units"
+        },
+        {
+          "name": "TSR",
+          "year": "2018",
+          "price": "$1.6M",
+          "topSpeed": "202 mph / 325 km/h",
+          "engine": "5.8L Twin-Supercharged V8",
+          "horsepower": "1,177 hp",
+          "displacement": "5800 cc",
+          "production": "5 units/year"
+        },
+        {
+          "name": "Aurora",
+          "year": "2025",
+          "price": "$2.8M",
+          "topSpeed": "227 mph / 365 km/h",
+          "engine": "6.6L Quad-Turbo V12 Hybrid",
+          "horsepower": "1,450 hp",
+          "displacement": "6600 cc",
+          "production": "50 units"
+        },
+        {
+          "name": "ST1 50S",
+          "year": "2009",
+          "price": "$1.2M",
+          "topSpeed": "233 mph / 375 km/h",
+          "engine": "6.8L Twin-Charged V8",
+          "horsepower": "1,104 hp",
+          "displacement": "6800 cc",
+          "production": "15 units"
+        },
+        {
+          "name": "TSR-GT",
+          "year": "Legacy",
+          "price": "N/A",
+          "topSpeed": "385 km/h",
+          "engine": "5.8L Twin-Charged V8",
+          "horsepower": "1,200 hp",
+          "displacement": "5.8L",
+          "production": "GT racing version"
+        },
+        {
+          "name": "Aurora Agil",
+          "year": "2025",
+          "price": "$2.8M",
+          "topSpeed": "227 mph / 365 km/h",
+          "engine": "6.6L Quad-Turbo V12 Hybrid",
+          "horsepower": "1,450 hp",
+          "displacement": "6600 cc",
+          "production": "50 units"
+        },
+        {
+          "name": "Aurora Tur",
+          "year": "2025",
+          "price": "$2.8M",
+          "topSpeed": "280 mph / 450 km/h",
+          "engine": "6.6L Quad-Turbo V12 Hybrid",
+          "horsepower": "1,850 hp",
+          "displacement": "6600 cc",
+          "production": "50 units"
+        }
+      ]
     },
     {
       "id": 23,
       "name": "Unique Cars",
       "logo": "Logos/unique.png",
-      "link": "/Brands/other-cars.html",
       "description": "Rare and unique automotive masterpieces",
-      "color": "#FF6B6B"
+      "color": "#FF6B6B",
+      "models": [
+        {
+          "name": "Devel Sixteen",
+          "year": "prototype",
+          "topSpeed": "347 mph / 558 km/h (Claimed)",
+          "price": "$1.6M+",
+          "engine": "12.3L Quad-Turbo V16",
+          "horsepower": "5,007 hp",
+          "displacement": "12300 cc",
+          "production": "N/A"
+        },
+        {
+          "name": "Apollo Intensa Emozione",
+          "year": "2019",
+          "topSpeed": "208 mph / 335 km/h",
+          "price": "$2.7M",
+          "engine": "6.3L V12",
+          "horsepower": "780 hp",
+          "displacement": "6300 cc",
+          "production": "10 units"
+        },
+        {
+          "name": "Rimac Nevera",
+          "year": "2022",
+          "topSpeed": "258 mph / 412 km/h",
+          "price": "$2.4M",
+          "engine": "Quad Electric Motors",
+          "horsepower": "1,914 hp",
+          "displacement": "N/A",
+          "production": "150 units"
+        },
+        {
+          "name": "SSC Tuatara",
+          "year": "2020",
+          "topSpeed": "295 mph / 475 km/h",
+          "price": "$1.6M",
+          "engine": "5.9L Twin-Turbo V8",
+          "horsepower": "1,750 hp",
+          "displacement": "5900 cc",
+          "production": "100 units"
+        }
+      ]
     }
   ],
   "videos": [
@@ -249,4 +2052,3 @@
     }
   ]
 }
-

@@ -8,39 +8,74 @@
 
 @layer base {
   body {
-    @apply bg-asphalt-dark text-gray-100 font-poppins;
+    @apply bg-asphalt-dark text-gray-100 font-poppins antialiased;
   }
   
-  * {
+  html {
     @apply scroll-smooth;
+  }
+
+  /* Custom Scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-asphalt-dark;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-red-900 rounded-full hover:bg-red-600 transition-colors;
   }
 }
 
 @layer components {
   .gradient-border {
-    @apply relative;
-  }
-  
-  .gradient-border::before {
-    content: '';
-    @apply absolute inset-0 rounded-2xl;
-    padding: 3px;
-    background: linear-gradient(120deg, #B30000, #FF9900, #B30000, #FF4D4D, #B30000);
+    @apply relative p-[3px] rounded-2xl overflow-hidden;
+    background: linear-gradient(115deg, #B30000, #ff0000, #4a0000, #B30000);
     background-size: 300% 300%;
-    -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
-    -webkit-mask-composite: xor;
-    mask-composite: exclude;
-    animation: borderGradientMove 2.5s linear infinite;
+    animation: borderGradientMove 4s ease infinite;
   }
   
-  @keyframes borderGradientMove {
-    0% { background-position: 0% 50%; }
-    100% { background-position: 100% 50%; }
+  .glass-panel {
+    @apply bg-black/40 backdrop-blur-md border border-white/5 shadow-xl;
+  }
+  
+  .text-neon-red {
+    @apply text-red-500 drop-shadow-[0_0_8px_rgba(239,68,68,0.6)];
   }
 
-  @keyframes moveRight {
-    0% { transform: translateX(-100%); }
-    100% { transform: translateX(100vw); }
+  @keyframes borderGradientMove {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+
+  .animate-slide-down {
+    animation: slideDown 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+  }
+  
+  .animate-fade-in {
+      animation: fadeIn 1s ease-out forwards;
+  }
+
+  @keyframes slideUp {
+    from { transform: translateY(30px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+  }
+
+  @keyframes slideDown {
+    from { transform: translateY(-30px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+  }
+  
+  @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
   }
 }
 

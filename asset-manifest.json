@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Asphalt_Velocity/static/css/main.6db3e303.css",
+    "main.js": "/Asphalt_Velocity/static/js/main.f361b987.js",
+    "index.html": "/Asphalt_Velocity/index.html",
+    "main.6db3e303.css.map": "/Asphalt_Velocity/static/css/main.6db3e303.css.map",
+    "main.f361b987.js.map": "/Asphalt_Velocity/static/js/main.f361b987.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6db3e303.css",
+    "static/js/main.f361b987.js"
+  ]
+}

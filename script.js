@@ -37,5 +37,3 @@ function showLeaveMessage(event) {
   `;
   document.getElementById('end').scrollIntoView({behavior: 'smooth'});
 }
-
-

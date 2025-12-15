@@ -2,6 +2,10 @@
 
 A modern, responsive car enthusiast website built with **React** and **Tailwind CSS**. Showcasing the world's most prestigious automotive brands with stunning visuals and smooth animations.
 
+> Note : This is a `Version 2` of previous `Version 1` - [View V1](https://github.com/Dark-Vinaal/Asphalt_Velocity-V1/)
+
+---
+
 ## ✨ Features
 
 - 🎥 **Dynamic Video Hero Carousel** - Auto-rotating video backgrounds showcasing premium cars
@@ -11,6 +15,8 @@ A modern, responsive car enthusiast website built with **React** and **Tailwind 
 - ⚡ **Smooth Animations** - Engaging transitions and hover effects
 - 🎯 **Component-Based Architecture** - Clean, maintainable React components
 - 📊 **JSON Data Management** - Easy-to-update brand information
+
+---
 
 ## 🚀 Getting Started
 
@@ -30,7 +36,7 @@ A modern, responsive car enthusiast website built with **React** and **Tailwind 
    move Logos public\Logos
    ```
    
-   **Note:** React serves static files from the `public` folder. The `Assets` and `Logos` folders need to be in `public` for the videos and images to load correctly.
+> **Note:** React serves static files from the `public` folder. The `Assets` and `Logos` folders need to be in `public` for the videos and images to load correctly.
 
 2. **Install dependencies:**
    ```bash
@@ -51,7 +57,9 @@ A modern, responsive car enthusiast website built with **React** and **Tailwind 
 npm run build
 ```
 
-This creates an optimized production build in the `build` folder.
+> This creates an optimized production build in the `build` folder.
+
+---
 
 ## 📁 Project Structure
 
@@ -79,6 +87,8 @@ asphalt-velocity-v2/
 └── package.json           # Dependencies
 ```
 
+---
+
 ## 🎨 Customization
 
 ### Adding New Brands
@@ -102,11 +112,7 @@ Edit `src/brands.json` to add new brands:
 - Custom colors defined in `tailwind.config.js`
 - Custom animations in `src/index.css`
 
-### Colors
-
-- **Asphalt Red**: `#B30000`
-- **Asphalt Dark**: `#0D0D0D`
-- **Asphalt Light**: `#1A1A1A`
+---
 
 ## 🛠️ Technologies Used
 
@@ -115,11 +121,15 @@ Edit `src/brands.json` to add new brands:
 - **Font Awesome** - Icons
 - **Google Fonts** - Typography (Poppins, Alex Brush)
 
+---
+
 ## 📱 Responsive Breakpoints
 
 - Mobile: `< 640px`
 - Tablet: `640px - 1024px`
 - Desktop: `> 1024px`
+
+---
 
 ## 🎯 Key Components
 
@@ -151,6 +161,8 @@ Edit `src/brands.json` to add new brands:
 - Contact button
 - Hover tooltips
 
+---
+
 ## 🔧 Development
 
 The app uses Create React App under the hood. For advanced configuration, you can eject:
@@ -159,11 +171,15 @@ The app uses Create React App under the hood. For advanced configuration, you ca
 npm run eject
 ```
 
-**Note:** This is a one-way operation!
+> **Note:** This is a one-way operation!
+
+---
 
 ## 📝 License
 
-This project is under MIT License
+> This project is under MIT License
+
+---
 
 ## 🙏 Acknowledgments
 
@@ -176,27 +192,20 @@ This project is under MIT License
 
 ### Vinaal R
 
-Passionate Learner | Creative Developer | Coding Enthusiast
+Passionate Learner | Aspiring Developer | Python Enthusiast
 
 ### Contact me through 
 
-<div align="center">
-  <a href="https://vinaalr.netlify.app/">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinaal/) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/Dark-Vinaal) 
+
+<a href="https://vinaalr.netlify.app/">
   <img src="https://img.shields.io/badge/VR%20-%20Portfolio-d5d5d5?style=for-the-badge&labelColor=0A0209&color=d5d5d5&logoColor=0A0209" />
 </a>
-<a href="https://www.linkedin.com/in/vinaal/">
-  <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Dark-Vinaal">
-  <img src="https://img.shields.io/badge/GitHub-d5d5d5?style=for-the-badge&logo=github&logoColor=0A0209" alt="GitHub" />
-</a>
-<a href="https://linktr.ee/Darkxzz999">
-  <img src="https://img.shields.io/badge/Linktree-d5d5d5?style=for-the-badge&logo=linktree&logoColor=0A0209" alt="Linktree" />
-</a>
-</div>
 
 ---
 
 > **Built with ❤️ for car enthusiasts**
+
+---
 
 ---

@@ -29,10 +29,10 @@ const BrandDetail = () => {
                 <div className="absolute inset-0 bg-black/50 z-10" />
                 <div
                     className="absolute inset-0 bg-cover bg-center"
-                    style={{ backgroundImage: `url(/${brand.logo})`, filter: 'blur(20px)', opacity: 0.3 }}
+                    style={{ backgroundImage: `url(${process.env.PUBLIC_URL}/${brand.logo})`, filter: 'blur(20px)', opacity: 0.3 }}
                 />
                 <img
-                    src={`/${brand.logo}`}
+                    src={`${process.env.PUBLIC_URL}/${brand.logo}`}
                     alt={brand.name}
                     className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 h-64 w-auto object-contain z-20 drop-shadow-[0_0_30px_rgba(255,0,0,0.5)] animate-fade-in"
                 />
@@ -77,7 +77,7 @@ const BrandDetail = () => {
                     <div className="relative">
                         <div className="absolute -inset-4 bg-red-600/20 blur-3xl rounded-full"></div>
                         <img
-                            src={`/${brand.logo}`}
+                            src={`${process.env.PUBLIC_URL}/${brand.logo}`}
                             alt={`${brand.name} side view`}
                             className="relative w-full rounded-2xl shadow-2xl skew-y-3 hover:skew-y-0 transition-transform duration-700 ease-out"
                         />

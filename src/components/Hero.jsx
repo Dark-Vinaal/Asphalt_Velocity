@@ -32,7 +32,7 @@ const Hero = () => {
               }`}
           >
             <video
-              src={video.src}
+              src={`${process.env.PUBLIC_URL}/${video.src}`}
               autoPlay
               loop
               muted
@@ -90,8 +90,8 @@ const Hero = () => {
             key={index}
             onClick={() => setCurrentVideoIndex(index)}
             className={`h-1 rounded-full transition-all duration-500 ease-out ${index === currentVideoIndex
-                ? 'bg-red-600 w-12 shadow-[0_0_10px_rgba(220,20,60,0.8)]'
-                : 'bg-white/30 w-4 hover:bg-white/60'
+              ? 'bg-red-600 w-12 shadow-[0_0_10px_rgba(220,20,60,0.8)]'
+              : 'bg-white/30 w-4 hover:bg-white/60'
               }`}
             aria-label={`Go to video ${index + 1}`}
           />

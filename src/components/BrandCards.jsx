@@ -62,7 +62,7 @@ const BrandCards = () => {
                   <div className="relative w-full h-32 flex items-center justify-center mb-6">
                     <div className="absolute inset-0 bg-white/5 rounded-full blur-xl opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
                     <img
-                      src={brand.logo}
+                      src={`${process.env.PUBLIC_URL}/${brand.logo}`}
                       alt={brand.name}
                       className="relative max-w-full max-h-full object-contain filter drop-shadow-lg transition-transform duration-500 group-hover:scale-110 group-hover:brightness-125"
                     />

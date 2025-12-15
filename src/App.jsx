@@ -8,9 +8,10 @@ import About from './components/About';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 
+
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="min-h-screen bg-asphalt-dark font-poppins text-gray-100 selection:bg-red-600 selection:text-white">
         <Navbar />
         <Routes>
